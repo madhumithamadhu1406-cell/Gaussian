@@ -71,8 +71,14 @@ for i in range(n):
 ~~~
 
 ## Output:
+<img width="1221" height="538" alt="Screenshot 2026-03-18 110012" src="https://github.com/user-attachments/assets/bb95da60-25c0-469b-8c05-57c248e42c26" />
 
-<img width="907" height="472" alt="image" src="https://github.com/user-attachments/assets/f4c5db13-9733-4cad-914c-25478a138a59" />
+![WhatsApp Image 2026-03-18 at 11 10 56 AM](https://github.com/user-attachments/assets/0ea55fee-8b08-4dea-9712-9258e963880e)
+
+<img width="1229" height="591" alt="Screenshot 2026-03-18 110057" src="https://github.com/user-attachments/assets/c8b5e428-336b-4a96-a471-ad5a96755017" />
+
+
+
 
 
 
